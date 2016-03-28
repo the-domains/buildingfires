@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Building Fires]]></title>
         <description><![CDATA[Building Fires]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/buildingfires/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 17:13:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 18:44:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/buildingfires/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Building Fires is a movement working with the art of building sacred fires and gathering community around them. We do this for the earth, for the in-between worlds and for the Mystery that holds us all together.</p>]]></description>
+            <link>https://thegrid.ai/buildingfires/building-fires-is-a-movement-working-with-the-art-of-buildin/index.html</link>
+            <guid isPermaLink="false">71401e17-11c2-44cd-b643-f4506eee169e</guid>
+            <pubDate>Mon, 28 Mar 2016 18:44:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5ab1580-acb4-49ee-b45a-1ef8194ac52a.jpg">]]></description>
-            <link>undefinedhttpsmediagiphycommediacflxxeuwoj3bcgiphygif/index.html</link>
+            <link>https://thegrid.ai/buildingfires/httpsmediagiphycommediacflxxeuwoj3bcgiphygif/index.html</link>
             <guid isPermaLink="false">1833fa85-628a-4bda-8788-4651167c71c5</guid>
             <pubDate>Mon, 28 Mar 2016 17:13:10 GMT</pubDate>
         </item>
