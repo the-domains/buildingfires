@@ -1,7 +1,7 @@
 name: Building Fires
 favicon: null
 layout_spectrum: 0.91596
-typography_spectrum: 0.36444
+typography_spectrum: 0.99133
 title: Building Fires
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#ff9116'
     - '#a44000'
     - '#ba0f07'
-  brandStrength: 0.5625
-  lightness: 0.6875
-  saturation: 0.5625
+  brandStrength: 0.625
+  lightness: 0.5
+  saturation: 0.6875
   rhythmicContrast: 0.420072432840243
 purpose: []
