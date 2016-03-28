@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Building Fires]]></title>
+        <description><![CDATA[Building Fires]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Mar 2016 17:13:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5ab1580-acb4-49ee-b45a-1ef8194ac52a.jpg">]]></description>
+            <link>undefinedhttpsmediagiphycommediacflxxeuwoj3bcgiphygif/index.html</link>
+            <guid isPermaLink="false">1833fa85-628a-4bda-8788-4651167c71c5</guid>
+            <pubDate>Mon, 28 Mar 2016 17:13:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
